@@ -1,0 +1,1 @@
+Project ini mensimulasikan jaringan multi-site yang menghubungkan 3 lokasi kantor (HQ dan 2 cabang) menggunakan static routing melalui koneksi WAN Serial. Project ini menunjukkan pemahaman tentang routing table, subnetting WAN link point-to-point, dan konfigurasi multi-router.
